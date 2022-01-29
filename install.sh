@@ -992,11 +992,11 @@ menu() {
     echo -e "${Green}6.${Font}  change port"
     echo -e "${Green}7.${Font}  change TLS Version (only ws+tls is valid)"
     echo -e "${Green}18.${Font}  Change the camouflage path"
-    echo -e "——————————————— View information ———————————————”
+    echo -e "——————————————— View information ———————————————"
     echo -e "${Green}8.${Font} View real-time access log"
     echo -e "${Green}9.${Font} view real-time error log"
     echo -e "${Green}10.${Font} View V2Ray configuration information"
-    echo -e "——————————————Other options ———————————————”
+    echo -e "——————————————Other options ———————————————"
     echo -e "${Green}11.${Font} install 4-in-1 bbr Swift installation script"
     echo -e "${Green}12.${Font} install MTproxy (support TLS obfuscation)"
     echo -e "${Green}13.${Font} certificate validity update"
